@@ -2,7 +2,6 @@ package ibf2022.ssf.day16.controllers;
 
 import java.util.Date;
 
-import org.apache.catalina.connector.Response;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
